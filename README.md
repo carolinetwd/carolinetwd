@@ -1,6 +1,6 @@
 ---
 title: Tea With Data Homepage
-layout: home
+layout: default
 ---
 # 🍵 Tea With Data
 
@@ -13,7 +13,7 @@ Our goal is to brew data solutions that is **easy to understand** — all while 
 
 ## 📚 Latest posts (For GitHub view)
 
-- [Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints](/2025/10/29/Run-Azure-Functions-From-Microsoft-Fabric-Securely/)
+- [Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints](/_posts/2025-10-29-Run-Azure-Functions-From-Microsoft-Fabric-Securely.md)
 </div>
 
 <!-- Jekyll-visible ONLY (hidden on GitHub via the HTML `hidden` attribute) -->
