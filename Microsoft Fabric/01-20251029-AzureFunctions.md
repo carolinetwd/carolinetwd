@@ -162,10 +162,8 @@ At this point, you can **run the notebook** by entering the parameter values to 
 
 If you find these guides helpful, consider supporting my work so I can keep brewing more content!
 
-<a href="https://www.buymeacoffee.com/teawithdata"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=teawithdata&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
-
+[![Buy Me a Tea](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20tea&emoji=🍵&slug=teawithdata&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/teawithdata)
 
 ### 🪶 Author
 **Tea With Data**  
 Sharing the art of data with a cup of tea.
-
