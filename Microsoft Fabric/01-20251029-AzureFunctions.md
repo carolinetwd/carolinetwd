@@ -1,3 +1,6 @@
+---
+# This empty front matter is often enough for Jekyll to process the file.
+---
 # 🚀 Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints
 
 > This approach allows you to run **Azure Functions - HTTP Trigger** from **Microsoft Fabric** securely **without requiring any inbound public network access or a VNET gateway**.  
