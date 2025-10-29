@@ -1,6 +1,6 @@
 ---
 title: Tea With Data Homepage
-layout: default
+layout: home
 ---
 # 🍵 Tea With Data
 
@@ -8,11 +8,26 @@ Welcome to **Tea With Data** — a collection of simple and practical guides tha
 
 Our goal is to brew data solutions that is **easy to understand** — all while keeping things lightweight and friendly. ☁️
 
-## 📚 Table of Contents
+<!-- GitHub-visible ONLY (hidden on the Jekyll site via CSS) -->
+<div class="github-only">
 
-| Topic | Description |
-|--------|-------------|
-| [🚀 Run Azure Functions from Microsoft Fabric Securely](./Microsoft%20Fabric/01-20251029-AzureFunctions.md) | Learn how to trigger Azure Functions privately from Fabric — without inbound rules or VNET gateways. |
+## 📚 Latest posts (For GitHub view)
+
+- [Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints](/2025/10/29/Run-Azure-Functions-From-Microsoft-Fabric-Securely/)
+</div>
+
+<!-- Jekyll-visible ONLY (hidden on GitHub via the HTML `hidden` attribute) -->
+<div class="jekyll-only" hidden>
+
+## Latest posts (auto from Jekyll)
+
+{% for post in site.posts limit:5 %}
+- <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  <small>({{ post.date | date: "%b %-d, %Y" }})</small>
+{% endfor %}
+
+[All posts →](/)
+</div>
 
 > New guides are added regularly — stay tuned for more data integration and automation recipes.
 
