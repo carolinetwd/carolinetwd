@@ -167,3 +167,5 @@ If you find these guides helpful, consider supporting my work so I can keep brew
 ### 🪶 Author
 **Tea With Data**  
 Sharing the art of data with a cup of tea.
+
+[![carolinetwd profile views](https://u8views.com/api/v1/github/profiles/229321296/views/day-week-month-total-count.svg)](https://u8views.com/github/carolinetwd)
