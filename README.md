@@ -1,3 +1,7 @@
+---
+title: Tea With Data Homepage
+layout: default
+---
 # 🍵 Tea With Data
 
 Welcome to **Tea With Data** — a collection of simple and practical guides that may help your data  journey.  

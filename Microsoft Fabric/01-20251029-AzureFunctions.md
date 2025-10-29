@@ -1,5 +1,6 @@
 ---
-# This empty front matter is often enough for Jekyll to process the file.
+title: Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints
+layout: default
 ---
 # 🚀 Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints
 
