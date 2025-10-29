@@ -1,3 +1,59 @@
-title: My Multi-Page GitHub Site
-description: A simple site with multiple Markdown pages.
-theme: jekyll-theme-minimal # Or any other GitHub Pages supported theme
+# Site basics
+title: Tea With Data
+description: Sharing the art of data with a cup of tea.
+url: "https://carolinetwd.github.io" # no trailing slash
+baseurl: "" # empty for user site; for project site use "/<repo>"
+
+
+# Author
+author:
+name: Caroline
+email: talkwith.caroline@teawithdata.com
+
+
+# Theme (use GH Pages’ default or minima)
+theme: minima
+
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+
+# Pagination (classic plugin supported by GitHub Pages)
+paginate: 5
+paginate_path: "/page:num/"
+
+
+# Plugins whitelisted for GitHub Pages
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-paginate
+
+
+# Markdown & kramdown
+markdown: kramdown
+kramdown:
+input: GFM
+
+
+# Collections example (optional)
+collections:
+pages:
+output: true
+
+
+# Exclusions (don’t publish these)
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+
+
+# Minima theme options (optional)
+minima:
+date_format: "%b %-d, %Y"
+social_links:
+- { platform: github, user_url: "https://github.com/<username>" }
+- { platform: x, user_url: "https://x.com/<handle>" }
