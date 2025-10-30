@@ -9,6 +9,7 @@ author:
 name: Caroline
 email: talkwith.caroline@teawithdata.com
 
-# Theme (use GH Pages’ default or minima)
-theme: minima
-show_excerpts: true  # works with minima to show post excerpts
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
