@@ -1,7 +1,9 @@
 ---
 title: Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints
 layout: post
-date: 2025-10-29 22:00:00 +1100
+date: 2025-10-29
+categories: [Microsoft Fabric]
+tags: [microsoft-fabric, azure-functions]
 ---
 # 🚀 Run Azure Functions from Microsoft Fabric Securely using Managed Private Endpoints
 
